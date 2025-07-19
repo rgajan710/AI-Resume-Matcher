@@ -1,0 +1,35 @@
+NLP Research Intern (Remote / Internship)
+Location: Remote
+Experience: Fresher / Final Year Students
+Job Type: Internship (3–6 months)
+
+Job Description:
+We're seeking an NLP Intern to assist with research and development of advanced language models, embeddings, and search systems. You’ll help build AI tools that understand and rank text data intelligently.
+
+Responsibilities:
+
+Experiment with transformer-based models (e.g., BERT, RoBERTa)
+
+Fine-tune models on classification and similarity tasks
+
+Assist in building semantic search pipelines with FAISS
+
+Preprocess large text datasets (PDFs, docs, etc.)
+
+Write clean and reproducible research code
+
+Requirements:
+
+Strong Python skills and basic ML/NLP knowledge
+
+Familiarity with HuggingFace Transformers and PyTorch/TensorFlow
+
+Exposure to NLTK, spaCy, or similar libraries
+
+Passion for research and attention to detail
+
+Preferred:
+
+Experience with Jupyter Notebooks, Weights & Biases, or Google Colab
+
+Publications or project experience in NLP

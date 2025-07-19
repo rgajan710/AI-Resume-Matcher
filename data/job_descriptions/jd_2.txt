@@ -1,0 +1,35 @@
+2. Full Stack Developer (Mid-Level)
+Location: Remote
+Experience: 2–5 years
+Job Type: Contract / Full-time
+
+Job Description:
+Join our growing engineering team to build scalable and responsive web applications. You'll work across the stack—from front-end UIs to back-end APIs and databases.
+
+Responsibilities:
+
+Build and maintain responsive web applications using React and Node.js
+
+Design RESTful APIs and ensure data integrity
+
+Work with PostgreSQL and MongoDB databases
+
+Collaborate with product teams to define features and user flows
+
+Write clean, testable, and well-documented code
+
+Requirements:
+
+Proven experience with React, Node.js, Express.js
+
+Experience working with REST APIs and version control (Git)
+
+Familiarity with CI/CD pipelines
+
+Strong debugging and performance tuning skills
+
+Preferred:
+
+Familiarity with Docker, AWS, or Kubernetes
+
+Prior experience with GraphQL and TypeScript

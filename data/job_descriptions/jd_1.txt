@@ -1,0 +1,37 @@
+1. Software Tester / QA Engineer (Entry-Level)
+Location: Bengaluru, India (Hybrid)
+Experience: 0–2 years
+Job Type: Full-time
+
+Job Description:
+We are looking for a passionate Software Tester to assess software quality through manual and automated testing. You will be responsible for finding and reporting bugs and glitches before product launches.
+
+Responsibilities:
+
+Review and analyze system specifications and requirements
+
+Collaborate with developers to ensure quality throughout the SDLC
+
+Execute test cases (manual and automated) and analyze results
+
+Identify, document, and track bugs
+
+Perform regression testing when bugs are resolved
+
+Requirements:
+
+Bachelor’s degree in Computer Science or related field
+
+Understanding of software QA methodologies and tools
+
+Familiarity with bug tracking tools like JIRA
+
+Basic knowledge of Selenium or other automation frameworks
+
+Attention to detail and excellent communication skills
+
+Preferred:
+
+ISTQB Certification
+
+Experience testing web and mobile applications
